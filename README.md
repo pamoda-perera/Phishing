@@ -25,3 +25,5 @@ For linux users
 user credentials will be stored inside a text file called credentials and that text file will be stored inside the same folder.
 
 when hosting the phishing website you can go with any of those methods.
+see my blog under this URL http://pamodaperera.blogspot.com/2017/03/pishing.html
+
